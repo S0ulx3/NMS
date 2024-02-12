@@ -35,6 +35,7 @@ sudo apt install nmap
 -----------------------
 ```bash
 git clone https://github.com/S0ulx3/NMS
+chmod +x nms.sh
 ```
 --------------------------------------------
 - Este script usa nmap para escanear puertos a una dirección IP
@@ -72,6 +73,7 @@ sudo apt install nmap
 -----------------------
 ```bash
 git clone https://github.com/S0ulx3/NMS
+chmod +x nms.sh
 ```
 --------------------------------------------
 - This script uses nmap to scan ports to an IP address
