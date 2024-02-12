@@ -1,0 +1,6 @@
+# Este script usa nmap para escanear puertos a una dirección IP
+# Nmap es una herramienta de código abierto que se usa para analizar redes y realizar auditorías de seguridad
+# El uso de nmap puede estar sujeto a restricciones legales o éticas, dependiendo de la intención, el consentimiento y el daño potencial que se cause a terceros
+# El autor de este script no se hace responsable de las consecuencias derivadas del uso indebido o ilegal de nmap o de este script
+# El usuario debe usar este script bajo su propia responsabilidad y con el permiso explícito del dueño de la red o del sistema que se escanea
+# Este script se distribuye bajo la licencia GNU General Public License v3.0, que se puede consultar en https://www.gnu.org/licenses/gpl-3.0.html
