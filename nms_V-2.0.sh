@@ -20,11 +20,11 @@ trap ctrl_c INT
 # Función ayuda
 function ayuda(){
 clear
-    echo -e "\e[31mUso: ./nms.sh -i <ip>\n"
+    echo -e "\e[31mUso: ./nms_V-2.0.sh -i <ip>\n"
     echo -e "Opciones:\n"
     echo -e "  -i <ip>       Indica la dirección ip"
     echo -e "Ejemplo:"
-    echo -e '  ./nms.sh -i 192.168.1.1 \e[0m\n'
+    echo -e '  ./nms_V-2.0.sh -i 192.168.1.1 \e[0m\n'
 }
 
 # Escaneo de puertos
