@@ -7,9 +7,9 @@
 
 -------------------------------------------------------------------------
 
-| ON NMS  | SCAN WITH NMS	|
+| NMS 1.0  | NMS 2.0	|
 | ------------  | ------------ |
-|![f](https://github.com/S0ulx3/NMS/blob/main/NMS1.png)|![f](https://github.com/S0ulx3/NMS/blob/main/NMS2.png)
+|![f](https://github.com/S0ulx3/NMS/blob/main/NMS1.png)|![f](https://github.com/S0ulx3/NMS/blob/main/nms_V-2.0.png)
 
 
 -----------------------------------------------------------------------------------------
